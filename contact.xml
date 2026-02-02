@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root_group>
+	<group display_name="All Contacts" />
+	<group display_name="Blacklist" />
+</root_group>
+<root_contact>
+	<contact display_name="Paprotová Bára" office_number="120" mobile_number="607966131" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Expedice (Chodová Karin)" office_number="100" mobile_number="776074004" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Skoblejová Gabriela" office_number="101" mobile_number="777779551" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Kuldánek Jiří" office_number="102" mobile_number="777074003" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Nesrsta Stanislav" office_number="103" mobile_number="777646727" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Uhlíř Ivo" office_number="104" mobile_number="774440207" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Heidler Tomáš" office_number="105" mobile_number="604228407" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Provoz (Navíjedla)" office_number="106" mobile_number="" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Pszczolka Jan" office_number="107" mobile_number="777779556" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Kadlubiec Tadeusz" office_number="108" mobile_number="777717866" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Provoz (Drátotahy)" office_number="110" mobile_number="" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Provoz (Mistři)" office_number="111" mobile_number="" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Zkušebna" office_number="112" mobile_number="" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Skoblej Pavel" office_number="113" mobile_number="775719400" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Přikryl Michal" office_number="114" mobile_number="734302617" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Provoz (Odvíjedla)" office_number="116" mobile_number="" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Kuldánek Jakub" office_number="117" mobile_number="777706392" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Jírů Luboš" office_number="118" mobile_number="777984711" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Ekonomický úsek" office_number="119" mobile_number="" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Cieslar Rostislav" office_number="121" mobile_number="608534456" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Brachaczek Marek" office_number="123" mobile_number="602432055" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+	<contact display_name="Michlíčková Jolana" office_number="124" mobile_number="731886726" other_number="" line="0" ring="" group_id_name="KERN" eyepea_contact_id="" />
+</root_contact>
