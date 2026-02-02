@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+    <Title>Firemní telefonní seznam</Title>
+
+    <Menu Name="Obchod">
+        <Unit>
+            <Name>Jan Novák</Name>
+            <Telephone>+420123456789</Telephone>
+            <Mobile>+420777888999</Mobile>
+        </Unit>
+        <Unit>
+            <Name>Petr Svoboda</Name>
+            <Telephone>234567890</Telephone>
+        </Unit>
+    </Menu>
+
+    <Menu Name="Technická podpora">
+        <Unit>
+            <Name>Helpdesk</Name>
+            <Telephone>800123456</Telephone>
+        </Unit>
+        <Unit>
+            <Name>IT oddělení</Name>
+            <Telephone>1234</Telephone>
+        </Unit>
+    </Menu>
+
+</YealinkIPPhoneBook>
